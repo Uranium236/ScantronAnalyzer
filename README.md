@@ -1,4 +1,14 @@
 # ScantronAnalyzer
 
-Scantron Analyzer is suposed to, without a doubt, act in the capacity of a program that analyzes scantron marks. Python programming language to calculate marks extracted from a scantron machine and analyze the mark data. 
-My teammate and me tried to effectively split the work. This was done with the help of google docs. To run, simply open the main file and boom, done. Marks pre-loaded into file. 
+## Overview
+Scantron Analyzer calculates the marks extracted from a scantron machine and analyzes the data. The program was built using Python.
+
+## Division of labour
+2 partners collaborated on the project. Work was split and performed concurrently through Google Docs. 
+
+## How to run
+Run the Python program "Scantron Project.py". Replace the input text files in the directory to calculate different results.
+
+## Tools used
+* Python
+* Google Docs
